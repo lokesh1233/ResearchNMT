@@ -1,0 +1,10 @@
+\.idea/
+__pycache__/
+
+todo\.txt
+
+/.ipynb_checkpoints
+/new_data
+/data
+/model
+/__pycache__
